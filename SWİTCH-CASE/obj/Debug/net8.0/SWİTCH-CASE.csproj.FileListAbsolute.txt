@@ -1,0 +1,14 @@
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\SWİTCH-CASE\bin\Debug\net8.0\SWİTCH-CASE.exe
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\SWİTCH-CASE\bin\Debug\net8.0\SWİTCH-CASE.deps.json
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\SWİTCH-CASE\bin\Debug\net8.0\SWİTCH-CASE.runtimeconfig.json
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\SWİTCH-CASE\bin\Debug\net8.0\SWİTCH-CASE.dll
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\SWİTCH-CASE\bin\Debug\net8.0\SWİTCH-CASE.pdb
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\SWİTCH-CASE\obj\Debug\net8.0\SWİTCH-CASE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\SWİTCH-CASE\obj\Debug\net8.0\SWİTCH-CASE.AssemblyInfoInputs.cache
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\SWİTCH-CASE\obj\Debug\net8.0\SWİTCH-CASE.AssemblyInfo.cs
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\SWİTCH-CASE\obj\Debug\net8.0\SWİTCH-CASE.csproj.CoreCompileInputs.cache
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\SWİTCH-CASE\obj\Debug\net8.0\SWİTCH-CASE.dll
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\SWİTCH-CASE\obj\Debug\net8.0\refint\SWİTCH-CASE.dll
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\SWİTCH-CASE\obj\Debug\net8.0\SWİTCH-CASE.pdb
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\SWİTCH-CASE\obj\Debug\net8.0\SWİTCH-CASE.genruntimeconfig.cache
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\SWİTCH-CASE\obj\Debug\net8.0\ref\SWİTCH-CASE.dll
